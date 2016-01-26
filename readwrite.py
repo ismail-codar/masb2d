@@ -1,5 +1,4 @@
 from shp_reader import *
-from ply_reader import *
 
 from StringIO import StringIO
 
